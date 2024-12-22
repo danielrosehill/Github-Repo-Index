@@ -315,7 +315,7 @@ A list of projects I am working on.
 [![Projects](https://img.shields.io/badge/Projects-blue?style=flat-square&logo=github&link=https://github.com/danielrosehill/Projects)](https://github.com/danielrosehill/Projects)
 
 ## Test Markdown Docs
-A few formatted markdown files for testing the real-time markdown rendering support of various knowledge management, note-taking and wiki tools.
+A few formatted markdown files for testing the real-time markdown rendering support of various knowledge management, note-taking and wiki tools.  
 [![Test Markdown Docs](https://img.shields.io/badge/Test%20Markdown%20Docs-blue?style=flat-square&logo=github&link=https://github.com/danielrosehill/Test-Markdown-Docs)](https://github.com/danielrosehill/Test-Markdown-Docs)
 
 ## Wiki
