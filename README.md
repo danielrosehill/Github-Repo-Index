@@ -55,7 +55,7 @@ Tools, frameworks, and platforms for custom LLM agent creation, including AI wor
 ## Custom LLM Agents
 Configuration parameters for custom LLM assistants for various tasks along with links to where they are available online.  
 
-[![Custom LLM Agents](https://img.shields.io/badge/Custom%20LLM%20Agents-blue?style=flat-square&logo=github&link=https://github.com/danielrosehill/Custom-LLM-Agents)](https://github.com/danielrosehill/Custom-LLM-Agents)
+[![Custom LLM Agents](https://img.shields.io/badge/Custom%20LLM%20Agents-blue?style=flat-square&logo=github&link=https://github.com/danielrosehill/Custom-LLM-Agents)](https://github.com/danielrosehill/My-LLM-Assistants)
 
 ## Eco Ninja 3
 Configuration for an LLM assistant that performs analysis on sustainability data.  
